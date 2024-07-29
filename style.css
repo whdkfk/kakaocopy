@@ -1,0 +1,168 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* background-color:black; */
+   }
+   header{
+       background-color: #fff;
+       top: 0;
+       display: flex;
+       height: 90px;
+       align-items: center;
+       position: sticky;
+       top: 0;
+       z-index: 10;
+   }
+   .headContainer {
+       justify-content: space-between;
+       align-items: center;
+       margin: 0 auto;
+       width: 92%;
+       display: flex;
+   }
+   .head-list {
+       align-items: center;
+       display: flex;
+       gap: 60px;
+       font-size: 18px;
+       list-style: none;
+       margin-left: 45px;
+   }
+   .headRightMenu {
+       display: flex;
+       list-style: none;
+       align-items: center;
+       gap: 10px;
+   }
+   .sdlkfj {
+       width: 10px;
+       padding: 6px 4px;
+   }
+   .sec1 {
+       height: 100vh;
+   }
+   video{
+       width: 1090px;
+       padding: 3px 63px;
+       border-radius: 9%;
+       position: absolute;
+   }
+   .sec1 img{
+       width: 38px;
+       height: 38px;
+       position: absolute;
+       z-index: 2;
+       padding: 1.5px;
+       right: 394px;                                                                                                                                                           
+   }
+   .sp{
+       padding: 1.5px;
+   }
+   .spp{
+       width: 148px;
+       height: 95px;
+       right: 247px;
+       padding: 1px;
+       position: absolute;
+       z-index: 1;
+       background-color: #fff;
+       border-radius: 0px 0px 0px 36px;
+   }
+   .sp img{
+       width: 85px;
+       height: 85px;
+       right: 290px;
+   }
+   .sppp img{
+       width: 38px;
+       height: 38px;
+       right: 175px;
+       padding: 95px;
+   }
+   .spa{
+       padding: 85px 150px;
+   }
+   .spa a{
+       position: absolute;
+       z-index: 3;
+       font-size: 50px;
+       color: #fff;
+   }
+   .spa2{
+       padding:55px 150px;
+   }
+   .spa2 a{
+       position: absolute;
+       z-index: 4;
+       font-size: 25px;
+       color: #fff;
+   }
+   .sppp2 img{
+       width: 38px;
+       height: 38px;
+       padding: 304px 827px;
+   }
+   .spp2{
+       width: 250px;
+       height: 100px;
+       left: 37px;
+       top: 625px;
+       position: absolute;
+       z-index: 1;
+       background-color: #fff;
+       border-radius: 0px 36px 0px 0px;
+   }
+   .sppp22 img{
+       width: 38px;
+       height: 38px;
+       padding: 218px 1051px;
+   }
+   .spp2 a{
+       height: 100px;
+       display: flex;
+       font-size: 22px;
+       position: absolute;
+       top: 30px;
+       left: 50px;
+   }
+   .spp2 img{
+       width: 50px;
+       height: 50px;
+       position: absolute;
+       z-index: 1;
+       top: 17px;
+       left: 180px;
+   }
+   .b{
+       width: 200px;
+       height: 200px;
+       background-color: #FAE100;
+       position: absolute;
+       border-radius: 10%;
+       left: 83%;
+       top: 95px;
+       justify-content: center;
+   }
+   .b .bu img{
+       width: 35px;
+       height: 20px;
+       padding: 170px 30px;
+       right: 70px;
+   }
+   .b img{
+       width: 11px;
+       height: 10px;
+       padding: 175px 12px;
+       right: 70px;
+   }
+   h4{
+       font-weight: 400; 
+       padding: 60px 60px;
+   }
+   .b a{
+       padding: 50px 40px;
+       position: absolute;
+       top: 10px;
+       font-weight: 400;
+       font-size: 16px;
+  }
