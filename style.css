@@ -166,3 +166,29 @@ body{
        font-weight: 400;
        font-size: 16px;
   }
+  .b2{
+    width: 200px;
+    height: 260px;
+    background-color: #f3f3f3;
+    position: absolute;
+    border-radius: 10%;
+    left: 83%;
+    top:315px;
+    justify-content: center;
+  }
+  .bu2 a{
+    /* padding: 50px 40px; */
+    position: absolute;
+    display: flex;
+    align-items: center;
+    top: 20px;
+    background-color: black;
+    left: 10%;
+    color: #fff;
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 15px;
+  }
