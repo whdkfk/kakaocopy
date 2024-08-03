@@ -192,3 +192,13 @@ body{
     font-weight: 400;
     font-size: 15px;
   }
+  .bu2 h3{
+    font-weight: 400;
+    margin-top: 20px;
+  }
+  .bu2 h4{
+    display: flex;
+    position: absolute;
+    font-weight: 400;
+    top: 60px;
+  }
