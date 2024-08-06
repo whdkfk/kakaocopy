@@ -203,3 +203,14 @@ body{
     font-weight: 400;
     top: 60px;
   }
+  .u2{
+    padding: 10px 0px;
+    margin-left: 20px;
+  }
+  .u3{
+    position: absolute;
+    top: 35px;
+    left: 20px;
+    font-size: 15px;
+    font-weight: 800;
+  }
