@@ -192,25 +192,22 @@ body{
     font-weight: 400;
     font-size: 15px;
   }
-  .bu2 h3{
-    font-weight: 400;
-    margin-top: 50px;
-    margin-right: 50px;
-  }
-  .bu2 h4{
-    display: flex;
-    position: absolute;
-    font-weight: 400;
-    top: 60px;
-  }
   .u2{
-    padding: 10px 0px;
+    padding: 40px 0px;
     margin-left: 20px;
+    font-size: 20px;
+    font-weight: 400;
   }
   .u3{
     position: absolute;
-    top: 35px;
+    top: 65px;
     left: 20px;
-    font-size: 15px;
-    font-weight: 600;
+    font-size: 20px;
+    font-weight: 400;
   }
+  .bu2 h4{
+    position: absolute;
+    top: 80px;
+    font-size: 15px;
+  }
+
