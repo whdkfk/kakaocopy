@@ -174,7 +174,7 @@ body{
     border-radius: 10%;
     left: 83%;
     top:315px;
-    justify-content: center;
+    /* justify-content: center; */
   }
   .bu2 a{
     /* padding: 50px 40px; */
@@ -202,12 +202,13 @@ body{
     position: absolute;
     top: 65px;
     left: 20px;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 400;
   }
   .bu2 h4{
     position: absolute;
     top: 80px;
     font-size: 15px;
+
   }
 
