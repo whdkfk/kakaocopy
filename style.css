@@ -205,10 +205,11 @@ body{
     font-size: 18px;
     font-weight: 400;
   }
-  .bu2 h4{
+  .uu{
     position: absolute;
-    top: 80px;
+    display: flex;
+    top: 35px;
     font-size: 15px;
-
+    color: gray;
   }
 
