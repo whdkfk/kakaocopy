@@ -207,9 +207,18 @@ body{
   }
   .uu{
     position: absolute;
-    display: flex;
     top: 35px;
+    left: -40px;
     font-size: 15px;
     color: gray;
+    white-space: nowrap;
+  }
+  .bu22{
+    width: 50px;
+    height: 1px;
+    position: absolute;
+    display: flex;
+    left: 450px;
+    top: 220px;
   }
 
