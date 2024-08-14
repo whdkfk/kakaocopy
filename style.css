@@ -166,7 +166,7 @@ body{
        font-weight: 400;
        font-size: 16px;
   }
-  .b2{
+  .bu2{
     width: 200px;
     height: 260px;
     background-color: #f3f3f3;
@@ -213,12 +213,40 @@ body{
     color: gray;
     white-space: nowrap;
   }
-  .bu22{
-    width: 50px;
-    height: 1px;
+  .b2{
+    width: 200px;
+    height: 120px;
+    background-color: #FAE100;
     position: absolute;
+    border-radius: 25px;
+    left: 83%;
+    top: 590px;
+    justify-content: center;
     display: flex;
-    left: 450px;
-    top: 220px;
   }
-
+  .b2 a{
+    font-size: 23px;
+    padding: 70px 0px;
+  }
+  .b22{
+    margin-top: 23px;
+    margin-right: -310px;
+  }
+  #b2b{
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border: none;
+  }
+  #b3b{
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border: none;
+  }
