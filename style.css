@@ -240,6 +240,7 @@ body{
     height: 24px;
     border-radius: 50%;
     border: none;
+    background-color: beige;
   }
   #b3b{
     position: absolute;
@@ -249,4 +250,5 @@ body{
     height: 24px;
     border-radius: 50%;
     border: none;
+    background-color: beige;
   }
