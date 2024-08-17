@@ -252,3 +252,9 @@ body{
     border: none;
     background-color: beige;
   }
+  #start{
+    border-radius: 50%;
+    border-color:black ;
+    width: 30px;
+    height: 30px;
+  }
